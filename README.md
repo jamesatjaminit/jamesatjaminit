@@ -12,7 +12,7 @@
 ### ClassCharts-API
 A wrapper for the ClassCharts API, written in typescript.  
 
-Website: https://classchartsapi.github.io/classcharts-api-js/
+Website: https://classchartsapi.github.io/classcharts-api-js/  
 Source: https://github.com/Classcharts-API/classcharts-api-js
 
 
