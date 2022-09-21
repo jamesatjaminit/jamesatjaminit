@@ -12,7 +12,7 @@
 ### ClassCharts-API
 A wrapper for the ClassCharts API, written in typescript.  
 
-Website: https://classcharts-api.github.io/classcharts-api-js/  
+Website: https://classchartsapi.github.io/classcharts-api-js/
 Source: https://github.com/Classcharts-API/classcharts-api-js
 
 
@@ -24,5 +24,4 @@ Source: https://github.com/Classcharts-API/api-docs
 ### Jam-Bot
 A Discord bot written in typescript, with a main focus in moderation and general commands, with a few image commands sprinkled in.  
   
-Website: https://jambot.jaminit.co.uk/#/  
 Source: https://github.com/jaminitbot/Jam-Bot  
