@@ -6,7 +6,7 @@
 
 ---
 
-<p align="center">I'm James Cook, a programmer based in the UK</p>
+<p align="center">I'm James, a programmer based in the UK</p>
 
 ## Notable Projects 
 ### ClassCharts-API
