@@ -1,8 +1,4 @@
 <h3 align="center">Hi there! I'm James👋</h3>
-<p align="center">
-  <a href="https://twitter.com/jamesatjaminit">Twitter</a>  ·
-  <a href="https://discord.gg/985yaqxPuy">Discord</a>
-</p>
 
 ---
 
